@@ -20,9 +20,9 @@ header {
   margin: 0 20px;
 }
 .box_phones {
-  height: 320px;
+  height: 450px;
   background: url("../img/image-mockups.png") no-repeat 0 -133px,
-    url("../img/bg-intro-mobile.svg") no-repeat 0 -40px;
+    url("../img/bg-intro-mobile.svg") no-repeat 0 -10px;
   background-size: cover;
   background-color: hsl(0, 0%, 98%);
 }
@@ -60,7 +60,4 @@ button {
   border-style: none;
   margin: 30px 0 120px 0;
   background: linear-gradient(70deg, hsl(136, 65%, 51%), hsl(192, 70%, 51%));
-}
-.box_two {
-  background-color: hsl(0, 0%, 98%);
 }
