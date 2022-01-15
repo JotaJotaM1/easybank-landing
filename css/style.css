@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Public Sans", sans-serif;
+}
+main {
+  text-align: center;
+}
+header {
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.box_logo_burger {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 20px;
+}
+.box_phones {
+  height: 320px;
+  background: url("../img/image-mockups.png") no-repeat 0 -133px,
+    url("../img/bg-intro-mobile.svg") no-repeat 0 -40px;
+  background-size: cover;
+  background-color: hsl(0, 0%, 98%);
+}
+.box_one,
+.box_two,
+.box_three,
+.box_four,
+.box_five,
+.box_six {
+  background-color: hsl(0, 0%, 98%);
+}
+h1 {
+  font-size: 35px;
+  font-weight: 400;
+  color: hsl(233, 26%, 24%);
+  padding: 40px 2rem 0px 2rem;
+}
+h2,
+h3 {
+  color: hsl(233, 26%, 24%);
+  padding-top: 1rem;
+  font-weight: 400;
+}
+p {
+  font-size: 15px;
+  padding: 1.5rem 1rem;
+  color: hsl(233, 8%, 62%);
+}
+button {
+  font-weight: bold;
+  color: white;
+  height: 2.4rem;
+  width: 9rem;
+  border-radius: 2rem;
+  border-style: none;
+  margin: 30px 0 120px 0;
+  background: linear-gradient(70deg, hsl(136, 65%, 51%), hsl(192, 70%, 51%));
+}
+.box_two {
+  background-color: hsl(0, 0%, 98%);
+}
