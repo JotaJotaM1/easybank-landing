@@ -20,9 +20,9 @@ header {
   margin: 0 20px;
 }
 .box_phones {
-  height: 440px;
-  background: url("../img/image-mockups.png") no-repeat 0 -170px,
-    url("../img/bg-intro-mobile.svg") no-repeat 0 -50px;
+  height: 375px;
+  background: url("../img/image-mockups.png") no-repeat 0 -143px,
+    url("../img/bg-intro-mobile.svg") no-repeat 0 -41px;
   background-size: cover;
   background-color: hsl(0, 0%, 98%);
 }
@@ -55,7 +55,7 @@ h3 {
 }
 p {
   font-size: 15px;
-  padding: 1.5rem 4rem;
+  padding: 1.5rem 2rem;
   color: hsl(233, 8%, 62%);
   line-height: 1.5rem;
 }
