@@ -123,7 +123,7 @@ h4 {
 .containerBy {
   margin: 0 30px;
 }
-footer{
+footer {
   background-color: hsl(233, 26%, 24%);
   display: flex;
   flex-direction: column;
@@ -131,9 +131,8 @@ footer{
 }
 .containerLogoFooter {
   margin: 35px 0;
-  
 }
-.logoFooter{
+.logoFooter {
   color: white;
 }
 .containerIcons {
